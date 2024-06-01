@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "pplab7/pplab7.Main",
+            "projectName": "main"
+        },
+        {
+            "type": "java",
             "name": "App",
             "request": "launch",
             "mainClass": "pplab7/pplab7.App",
