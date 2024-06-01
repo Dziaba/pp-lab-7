@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "pplab7/pplab7.App",
+            "projectName": "main"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "vmArgs": "--module-path /Users/hubertwyrwisz/pp-lab-7/javafx-sdk-22.0-3.1/lib --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}
